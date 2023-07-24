@@ -68,3 +68,43 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Mi Proyecto de Formularios
+
+Bienvenido a mi proyecto de formularios. Esta aplicación te permite crear, editar y gestionar formularios, así como enviar respuestas a través de ellos.
+
+## Requisitos
+
+Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes elementos:
+
+1. Node.js: Puedes descargar Node.js desde su sitio web oficial: https://nodejs.org
+2. npm: npm es el gestor de paquetes de Node.js y se instala automáticamente junto con Node.js.
+3. Git: Puedes descargar Git desde su sitio web oficial: https://git-scm.com
+
+## Instrucciones para Ejecutar el Proyecto
+
+Sigue estos pasos para ejecutar el proyecto:
+
+1. Clona el repositorio:
+
+(Reemplaza `TuUsuario` y `tu-repositorio` con tu nombre de usuario y nombre de repositorio en GitHub).
+
+2. Ve al directorio del proyecto:
+
+3. Instala las dependencias del proyecto:
+
+4. Ejecuta la aplicación:
+
+
+Esto abrirá la aplicación en tu navegador web. Si no se abre automáticamente, puedes acceder a ella en la dirección `http://localhost:3000`.
+
+## Cómo Usar la Aplicación
+
+Una vez que la aplicación esté funcionando en tu navegador, puedes seguir las siguientes instrucciones:
+
+1. Página de Inicio (HomePage): En esta página, encontrarás una introducción a la aplicación y un enlace para acceder a la gestión de formularios.
+
+2. Página de Gestión de Formularios (FormManagementPage): En esta página, podrás crear nuevos formularios y ver una lista de los formularios existentes. También podrás editar y eliminar formularios existentes.
+
+3. Página de Formulario (FormPage): Al hacer clic en "Editar" en la página de gestión de formularios, accederás a la página de un formulario específico. Aquí podrás editar el título del formulario y agregar, editar o eliminar preguntas del mismo.
+
+4. Página de Respuestas (ResponsePage): Esta página muestra una lista de respuestas enviadas a través de los formularios.
